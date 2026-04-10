@@ -56,7 +56,3 @@ By combining interactive visuals with automated metrics, the project offers clea
 - **Plotly** (interactive visualizations)  
 - **Streamlit** (web dashboard framework)  
 - **Time-Series Analysis** (rolling windows, SMAs, ROI calculations)
-
----
-
-## Repository Structure (planned)
