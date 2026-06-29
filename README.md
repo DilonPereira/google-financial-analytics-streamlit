@@ -12,7 +12,7 @@
 
 ---
 
-## Project Purpose
+## Purpose
 
 This repository contains a **full-stack Python analytical workflow** and **interactive web application** designed to transform raw historical stock data (`GOOGL.csv`) into clean, analysis-ready structures.
 
@@ -26,7 +26,7 @@ Built as both a reproducible analysis pipeline and a production-grade Streamlit 
 
 ---
 
-## Key Features
+## Features
 
 - **Robust Time-Series Processing** — Automated date parsing, indexing, and cleaning of 4,400+ rows of daily OHLCV data.
 - **Dynamic Technical Indicators** — Real-time calculation and visualization of 50-day and 200-day SMAs with automatic detection of crossover events.
